@@ -171,25 +171,25 @@ section {
 }
 
 .buttons .clear-canvas {
-    color: #6C757D;
-    border: 1px solid #6C757D;
+    color: #000000;
+    border: 1px solid #000000;
     transition: all 0.3s ease;
 }
 
 .clear-canvas:hover {
     color: #fff;
-    background: #6C757D;
+    background: #414242;
 }
 
 .buttons .save-img {
-    background: #4A98F7;
-    border: 1px solid #4A98F7;
+    border: 1px solid #000000;
     transition: all 0.3s ease;
+    color: #000000;
 }
 
 .buttons .save-img:hover {
-    color: #000000;
-    background: #0b5596;
+    background: #414242;
+    color: #fff;
 }
 
 .drawing-board {
